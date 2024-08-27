@@ -2,7 +2,7 @@
 
 Бот принимает любые файлы, фото, видео, текст. Однако множество файлов он принимать не может.
 
-![Image alt](https://So1ta.github.io/imagetg.jpg)
+![Image alt](https://So1ta.github.io/imagetg.png)
 
 Язык бота - Python 3.12
 
